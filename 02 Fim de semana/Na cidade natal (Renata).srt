@@ -1,0 +1,23 @@
+1
+00:00:0,000 --> 00:00:3,999
+Eu fui a São José dos Campos, em São Paulo, na minha cidade.
+
+2
+00:00:4,000 --> 00:00:5,999
+Fui visitar minha família,
+
+3
+00:00:6,000 --> 00:00:8,999
+fui ao aniversário do meu priminho que fez um ano,
+
+4
+00:00:9,000 --> 00:00:10,999
+fui passear com a minha sobrinha
+
+5
+00:00:11,000 --> 00:00:13,999
+que eu não via há uns dois, três meses...
+
+6
+00:00:14,000 --> 00:00:17,999
+Fui na sexta e voltei segunda, foi bem rápido.

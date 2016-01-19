@@ -1,0 +1,15 @@
+1
+00:00:0,000 --> 00:00:2,999
+Ah, o fim de semana passado eu fiz um programa muito bom:
+
+2
+00:00:3,000 --> 00:00:4,999
+fizemos um bom churrasco, né,
+
+3
+00:00:5,000 --> 00:00:6,999
+tomamos uma cervejinha de leve
+
+4
+00:00:7,000 --> 00:00:9,799
+e pronto, e voltamos, viemos pra casa.
