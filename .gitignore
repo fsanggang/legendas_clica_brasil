@@ -1,3 +1,6 @@
 .DS_Store
 */*.mp4
+*.rtf
+*/*.rtf
+*/*.pdf
 */pdfs/*.pdf

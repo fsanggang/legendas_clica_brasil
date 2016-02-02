@@ -1,0 +1,35 @@
+1
+00:00:0,000 --> 00:00:0,999
+Gosta, gosta.
+
+2
+00:00:1,000 --> 00:00:3,000
+Por que tem essa fascinação com a televisão?
+
+3
+00:00:2,000 --> 00:00:4,999
+Eu acho que... é porque... é... é a imagem, né?
+
+4
+00:00:4,899 --> 00:00:5,000
+Vaidosa…
+
+5
+00:00:5,000 --> 00:00:10,999
+Você aparece na Globo, você... a metade da população te vê.
+
+6
+00:00:11,000 --> 00:00:15,999
+A metade da população te vê porque você apareceu dois segundos na Globo.
+
+7
+00:00:16,000 --> 00:00:20,999
+Então todo mundo vem falar contigo: "Ah, eu te vi! Você respondendo sobre 'Big Brother'".
+
+8
+00:00:21,000 --> 00:00:24,999
+"Te vi, você falando do político". “Te vi na televisão!”
+
+9
+00:00:25,000 --> 00:00:26,999
+E é assim.
