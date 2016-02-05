@@ -1,0 +1,35 @@
+1
+00:00:0,000 --> 00:00:3,999
+Alguma de vocês costuma fazer ou já fez compras
+
+2
+00:00:4,000 --> 00:00:7,999
+no supermercado de madrugada, ou no meio da noite?
+
+3
+00:00:8,000 --> 00:00:13,999
+Já. Eu já fiz. Não com frequência, mas eu fiz umas duas vezes.
+
+4
+00:00:14,000 --> 00:00:14,999
+Por que, Glória, você fez compras...?
+
+5
+00:00:14,000 --> 00:00:19,999
+Achei muito bom, mais vazio, num instantinho acabei com as compras, num instantinho.
+
+6
+00:00:20,000 --> 00:00:24,499
+Fiz tudo e fui embora, é muito melhor, muito melhor.
+
+7
+00:00:24,500 --> 00:00:25,999
+E o supermercado tá mais vazio...
+
+8
+00:00:26,000 --> 00:00:26,999
+É, rapidinho!
+
+9
+00:00:27,000 --> 00:00:28,999
+Você não perde muito tempo.

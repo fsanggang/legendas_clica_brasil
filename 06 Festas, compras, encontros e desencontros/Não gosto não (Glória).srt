@@ -1,0 +1,19 @@
+1
+00:00:0,000 --> 00:00:3,999
+Eu não suporto feira. Não gosto de feira.
+
+2
+00:00:4,000 --> 00:00:6,999
+Não gosto de carregar carrinho, não gosto de carregar sacola,
+
+3
+00:00:7,000 --> 00:00:8,999
+eu vou às compras, eu mando entregar na minha casa,
+
+4
+00:00:9,000 --> 00:00:12,999
+não carrego nada... não gosto de feira não.
+
+5
+00:00:13,000 --> 00:00:17,999
+Acho su... uma sujeira, fica uma sujeira na rua, não gosto não.

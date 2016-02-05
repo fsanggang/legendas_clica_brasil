@@ -1,0 +1,31 @@
+1
+00:00:0,000 --> 00:00:2,999
+Olha, eu normalmente faço pequenas compras
+
+2
+00:00:3,000 --> 00:00:6,999
+ou compro pr... próximo de casa ou vou a pé mesmo e
+
+3
+00:00:7,000 --> 00:00:8,999
+compro nos mercados próximos de casa.
+
+4
+00:00:9,000 --> 00:00:12,999
+Agora, tenho muitos amigos que compram tudo pela internet.
+
+5
+00:00:13,000 --> 00:00:14,999
+Eles entram no website do supermercado,
+
+6
+00:00:15,000 --> 00:00:17,999
+escolhem os produtos, fazem a lista completa,
+
+7
+00:00:18,000 --> 00:00:20,999
+pagam com cartão de crédito e recebem em casa.
+
+8
+00:00:21,000 --> 00:00:22,999
+É muito prático.
