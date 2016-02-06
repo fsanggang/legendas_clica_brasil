@@ -1,0 +1,11 @@
+1
+00:00:0,000 --> 00:00:5,999
+Não deixe de ir ao Pelourinho, lá é um lugar muito interessante...
+
+2
+00:00:6,000 --> 00:00:9,999
+é... vá à praia no Porto da Barra, a minha preferida,
+
+3
+00:00:11,000 --> 00:00:20,999
+e experimente acarajé, experimente moqueca, experimente bobó de camarão.

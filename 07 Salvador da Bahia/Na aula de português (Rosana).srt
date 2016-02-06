@@ -1,0 +1,15 @@
+1
+00:00:7,000 --> 00:00:9,999
+Então pessoal, eu quero que vocês, por favor,
+
+2
+00:00:10,000 --> 00:00:11,999
+abram o livro na página dez,
+
+3
+00:00:12,000 --> 00:00:15,999
+leiam as instruções, depois o texto,
+
+4
+00:00:16,000 --> 00:00:19,999
+e respondam às perguntas de compreensão.

@@ -1,0 +1,11 @@
+1
+00:00:0,000 --> 00:00:5,999
+Olha, nosso São João ainda não está programado,
+
+2
+00:00:6,000 --> 00:00:8,999
+mas normalmente nós costumamos
+
+3
+00:00:9,000 --> 00:00:11,999
+ir para a cidade de Cachoeira.
